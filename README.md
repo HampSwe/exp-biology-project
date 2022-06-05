@@ -12,5 +12,3 @@ WARNING: This code is so similar to spaghetti that one might think that it's mad
 On a more serious note: if you actually are thinking of implementing my method for being able to, given a homogenous solution consisting of multiple known solutions of unknown concentration, quantify the concentrations of the respective solutions using spectroscopy - or just think the visualizations look cool and want to use them for other data - feel free to message me on Github and I will be glad to help you out!
 
 If you want more details on how the project works, start by reading the final report located in the "reports" folder (note: written in Swedish). Thereafter, inspect the program called "regression.py" located in the "study-2" folder.
-
-![alt text](https://github.com/HampSwe/ga-data-processing/blob/main/images/nanno_spectrum.png "Example 2")
