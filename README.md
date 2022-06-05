@@ -12,3 +12,6 @@ On a more serious note: if you actually are thinking of implementing my method f
 If you want more details on how the project works, start by reading the final report located in the "reports" folder (note: written in Swedish). Thereafter, inspect the program called "regression.py" located in the "study-2" folder.
 
 ![alt text](https://github.com/HampSwe/ga-data-processing/blob/main/images/red_spectrum.png "Example 1")
+
+![alt text](https://github.com/HampSwe/ga-data-processing/blob/main/images/nanno_spectrum.png "Example 2")
+
