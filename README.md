@@ -2,7 +2,6 @@
 The data and programs used for processing and visualizing the results of my "gymnasiearbete" (final high school project, shortened as GA) in Experimental Biology.
 
 ![alt text](https://github.com/HampSwe/ga-data-processing/blob/main/images/red_spectrum.png "Example 1")
-
 WARNING: This code is so similar to spaghetti that one might think that it's made in Italy (even though it's gracefully written in Swenglish). Now, there could only be two reasons to why you're reading this:
 
 1: You have stumbled upon here by accident. If that is the case, there is probably nothing of value to you here.
